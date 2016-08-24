@@ -1,2 +1,2 @@
 # hello-world
-learning new skills by doing
+I'm learning new skills by doing things in git hub
